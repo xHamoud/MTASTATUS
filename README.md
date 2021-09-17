@@ -2,7 +2,7 @@
 Discord Status Bot Of MTA:SA Server (v13) 🔥🔥
 
 # Install Module 
-`npm intall`
+`npm install`
 
 # Setup Your Bot
 `edit config.json`
