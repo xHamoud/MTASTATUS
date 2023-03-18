@@ -75,4 +75,4 @@ smithbot.on('interactionCreate', async smithmsg => {
 	} 
 });
 
-smithbot.login(smithconfig.token);
+    client.login(process.env.BOT_TOKEN);
