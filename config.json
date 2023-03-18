@@ -1,6 +1,5 @@
 {
-	"token": "your token",
-    "guildId": "discord server id",
-    "server_ip": "mta server ip (Ex : 94.23.68.73)",
-    "server_port": "mta server port (Ex : 22003)"
+    "guildId": "944293362461180004",
+    "server_ip": "51.38.204.214",
+    "server_port": "27215"
 }
